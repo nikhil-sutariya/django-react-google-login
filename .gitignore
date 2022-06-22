@@ -1,0 +1,15 @@
+# Django backend
+backend/venv
+backend/app/app.log
+backend/app/db.sqlite3
+backend/app/app/__pycache__
+backend/app/profile/__pycache__
+backend/app/profile/profile_api/__pycache__
+backend/app/profile/migrations
+
+# React frontend
+frontend/node_modules
+frontend/build
+
+doc.txt
+
